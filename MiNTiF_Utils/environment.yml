@@ -1,5 +1,6 @@
 # (c) 2020-2021, Luca Widmer  @  ETH Zurich
-# Computer-assisted Applications in Medicine (CAiM) Group,  Prof. Orcun Gokselname: MiNTiF
+# Computer-assisted Applications in Medicine (CAiM) Group,  Prof. Orcun Goksel
+name: MiNTiF
 channels:
   - defaults
   - conda-forge
