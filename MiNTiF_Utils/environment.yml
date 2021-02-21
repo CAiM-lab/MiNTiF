@@ -1,0 +1,25 @@
+# (c) 2020-2021, Luca Widmer  @  ETH Zurich
+# Computer-assisted Applications in Medicine (CAiM) Group,  Prof. Orcun Gokselname: MiNTiF
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - statsmodels
+  - scikit-image
+  - backports.tempfile
+  - pandas
+  - scipy
+  - pillow
+  - graphviz
+  - h5py
+  - numpy
+  - cython
+  - pydot
+  - scikit-learn
+  - tensorflow-datasets
+  - tqdm
+  - tensorflow-gpu = 2.3
+  - seaborn
+  - mayavi
+  - tifffile
+  - matplotlib

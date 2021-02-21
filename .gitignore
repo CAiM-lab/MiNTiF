@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/*
+output*
+tmp/*
+spyder*
+jobs_gpu*
+.idea*
+gsheets_keys.json
+*.swp
+
